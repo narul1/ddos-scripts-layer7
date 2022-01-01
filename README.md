@@ -1,2 +1,2 @@
 # ddos-scripts-layer7
-stress.host leak :P
+stress.host leak (by monti) :P
